@@ -1,0 +1,10 @@
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\bin\Debug\BatBeat.exe.config
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\bin\Debug\BatBeat.exe
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\bin\Debug\BatBeat.pdb
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\obj\Debug\BatBeat.csprojAssemblyReference.cache
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\obj\Debug\BatBeat.Form1.resources
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\obj\Debug\BatBeat.Properties.Resources.resources
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\obj\Debug\BatBeat.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\obj\Debug\BatBeat.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\obj\Debug\BatBeat.exe
+C:\Users\Sergio\source\repos\BatBeat\BatBeat\obj\Debug\BatBeat.pdb
